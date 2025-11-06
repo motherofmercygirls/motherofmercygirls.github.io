@@ -1,0 +1,31 @@
+/* #164e4f */
+.footer-bg {
+    background: linear-gradient(135deg, #164e4f 0%, #032a2b 100%);
+}
+.newsletter-bg {
+    background: linear-gradient(135deg, #161516 0%, #000000 100%);
+}
+.footer-divider {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+.logo{
+    background: rgba(32, 32, 32, 1);
+    padding:2px 5px;
+}
+.hover-lift {
+    transition: all 0.3s ease;
+}
+.hover-lift:hover {
+    transform: translateY(-3px);
+}
+.social-icon {
+    transition: all 0.3s ease;
+}
+.social-icon:hover {
+    transform: scale(1.1);
+}
+
+.color{
+    background: #080808;
+}
+
